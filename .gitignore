@@ -1,0 +1,17 @@
+# Node
+node_modules/
+dist/
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
