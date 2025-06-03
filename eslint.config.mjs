@@ -17,5 +17,6 @@ export default tseslint.config(
       '@typescript-eslint/no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],
       '@typescript-eslint/explicit-module-boundary-types': 'off',
     },
+    ignores: ['dist', 'eslint.config.mjs', 'node_modules'],
   },
 );
