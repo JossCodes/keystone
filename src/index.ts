@@ -1,1 +1,1 @@
-console.log("Keystone CLI initialized.");
+console.log('Keystone CLI initialized.');
