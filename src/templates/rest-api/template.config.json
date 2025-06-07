@@ -1,0 +1,7 @@
+{
+  "name": "REST API Template",
+  "description": "A template for creating REST APIs with TypeScript, Express, and Zod.",
+  "version": "1.0.0",
+  "suportedRoles": ["junior", "lead"],
+  "requiredEnv": ["PORT", "DATABASE_URL"]
+}
